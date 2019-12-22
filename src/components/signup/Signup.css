@@ -1,0 +1,25 @@
+.Title{
+    padding: 0px;
+    margin: 20px 0px 2px 0px;
+}
+
+form{
+    padding-top: 15px;
+}
+
+form div{
+    padding: 5px 0px;
+}
+
+form TextField{
+    padding-right: 5px;
+}
+
+.SignUpButton{
+    padding: 6px 25px;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #67a052;
+    box-shadow: 2px 2px 4px #989abd;
+    cursor: pointer;
+}

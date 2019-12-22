@@ -1,0 +1,19 @@
+.LoginContainer{
+    padding: 0px 150px;
+    background-color: #e7ebf2;
+    height: calc(100vh - 60px);
+}
+
+.ImageContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.SignUpFormContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 20px;
+}
